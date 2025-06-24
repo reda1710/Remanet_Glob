@@ -1,1 +1,4 @@
-# Remanet_Glob
+# RemaNet_Glob
+Remanufacturing Network
+
+
